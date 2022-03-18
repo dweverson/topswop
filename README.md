@@ -1,5 +1,8 @@
 # Topswop
 
+## [Video Demo Link](https://youtu.be/IGgislj0JVM)
+
+
 ## Introduction
 
 **Topswop** is a web-app for trading second-hand clothes. It is built using [Svelte](https://svelte.dev/) and [DaisyUI](https://daisyui.com/) for the front-end, and [Firebase](https://firebase.google.com/) for the back-end.
